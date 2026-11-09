@@ -1,0 +1,7 @@
+﻿target/
+**/*.rs.bk
+*.o
+*.bin
+Cargo.lock
+.idea/
+.vscode/
